@@ -3,7 +3,8 @@
 Trabalho desenvolvido em python, referente a classificação de imagens, para a matéria de Inteligência Artificial ministrada pelo professor Celso Crivelaro
 
 [Apresentação Slide](https://www.canva.com/design/DAGpaJAyDg8/ncygOLWZCSlVMHPXCV7GCw/edit?utm_content=DAGpaJAyDg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[Bot Classificação](https://discord.gg/7d2AVQXK)
+[Bot Classificação](https://discord.gg/7d2AVQXK) (Ultilizar !classificar + img)
+![](modelo_bot.png)
 
 # Classificador de Imagens CNN utilizando EfficientNetB0
 
