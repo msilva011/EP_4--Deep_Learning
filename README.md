@@ -5,21 +5,12 @@ Trabalho desenvolvido em python, referente a classificação de imagens, para a 
 [Apresentação Slide](https://www.canva.com/design/DAGpaJAyDg8/ncygOLWZCSlVMHPXCV7GCw/edit?utm_content=DAGpaJAyDg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
-[Bot Classificação](https://discord.gg/7d2AVQXK) (Ultilizar !classificar + img)
+[Bot Classificação](https://discord.gg/7d2AVQXK)
 ![](modelo_bot.png)
 
 > Para utilizar o bot do discord:
 > Gere seu bot [Discord Developer Portal](https://discord.com/developers/applications) > gere um token e associe ao parametro TOKEN do projeto bot_classify.py > vincule o bot a um servidor do discord > no diretorio do projeto, abra o terminal e execute o comando ```python bot_classify.py```. O bot estará online.
 > Para utiliza-lo basta enviar ```!classificar``` com a imagem anexada
-=======
-[Bot Classificação](https://discord.gg/7d2AVQXK)
-![](modelo_bot.png)
-
-> Para utilizar o bot do discord, é necessário criar seu proprio bot do discord [Discord Developer Portal](https://discord.com/developers/applications) e gerar um token que deverá ser incluido no projeto bot_classify.py, parametro TOKEN;
-> executar no terminal (no diretorio do repositorio) o comando ```python bot_classify.py```;
-> Após essa ação o bot do discord estará online;
-> Ultilizar ```!classificar``` e anexar imagem.
->>>>>>> c66a630 (UPDATE: passo a passo bot discord)
 
 # Classificador de Imagens CNN utilizando EfficientNetB0
 
